@@ -61,7 +61,7 @@
     return UIStatusBarStyleLightContent;
 }
 
-//懒加载数据  get方法
+//懒加载数据  get方法  测试啊    啊啊啊
 -(NSArray *)questions
 {
     if (_questions == nil) {
